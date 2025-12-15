@@ -22,3 +22,21 @@ function menutoggle(){
         MenuItems.style.maxHeight = "0px";
     }
 }
+let cartCount = 0;
+let cartTotal = 0;
+
+document.querySelectorAll(".add-to-cart").forEach(button => {
+  button.addEventListener("click", () => {
+    const productName = button.dataset.name;
+    const productPrice = parseFloat(button.dataset.price);
+
+    cartCount++;
+    cartTotal += productPrice;
+
+    alert(
+      productName + " added to cart!\n" +
+      "Items: " + cartCount + "\n" +
+      "Total: ₹" + cartTotal.toFixed(2)
+    );
+  });
+});
