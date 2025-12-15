@@ -1,42 +1,25 @@
-# Ecommerce-Website-College-Project
-Final Year Project for students as Ecommerce website especially different webpages. Top class Website Development project that made by combination of front end programming languages such as HTML, CSS &amp; JS.
+# E-Commerce Website
 
-Tech : HTML & CSS
+This project is based on an open-source front-end e-commerce website.
 
-### Click on play button see Demo:
+I explored the codebase to understand how real-world e-commerce websites
+are structured using HTML, CSS, and JavaScript. I enhanced the project by
+improving UI design, adding basic JavaScript functionality, and updating
+documentation.
 
-https://user-images.githubusercontent.com/28294942/137707143-5db5ccac-f475-42b5-9065-0788094b70db.mov
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
 
+## Key Features
+- Multiple web pages (Home, Products, Checkout, Login)
+- Responsive layout
+- Basic JavaScript interactions
+- Clean UI design
 
-
-**You Can use this Beautiful Project for your college Project and get good marks too.**
-
-Email me Now **vatshayan007@gmail.com** to get this Full Project Code, PPT, Report, Synopsis, Video Presentation and Research paper of this Project.
-
-💌 Feel free to contact me for any kind of help on any projects.
- 
-### HOW TO RUN THE PROJECT-
-⚡ Email me at **vatshayan007@gmail.com** to get a detailed Guide report with Code to run the project with source Code.
-
-### Need Code, Documents & Explanation video ? 
-
-## How to Reach me :
-
-### Mail : vatshayan007@gmail.com 
-
-### WhatsApp: **+91 9310631437** (Helping 24*7) **[CHAT](https://wa.me/message/CHWN2AHCPMAZK1)** 
-
-### Website : https://www.finalproject.in/
-
-### 1000 Computer Science Projects : https://www.computer-science-project.in/
-
-### More Web Dev Project : https://youtube.com/playlist?list=PL5g-9zkOohaFVr4-D344gUd-2vGMot-18&si=7Z--kjOJghZno4bv
-
-Mail/Message me for Projects Help 🙏🏻
-
-### Liked Project?
-If you Like Idea/ Research Paper/Project then Mail or Click on Star button🙏🏻
-
-**This is Open Source Web development Project**
-
-### Web Development Projects Playlist : https://youtube.com/playlist?list=PL5g-9zkOohaFVr4-D344gUd-2vGMot-18
+## Key Learnings
+- Website structure and navigation
+- Responsive design basics
+- DOM manipulation using JavaScript
+- Front-end project organization
